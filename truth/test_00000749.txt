@@ -1,0 +1,3 @@
+no_mask 596 196 682 325
+have_mask 283 89 385 242
+have_mask 1 160 53 250

@@ -1,0 +1,2 @@
+have_mask 88 47 117 89
+have_mask 163 51 194 86
